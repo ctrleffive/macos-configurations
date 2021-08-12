@@ -1,12 +1,12 @@
-# MacOS Configurations
+# 🍏 macOS Configurations
 
-## Backup Configurations
+## 💾 Backup Configurations
 - Make the `run_backup.sh` file executable with `chmod +x ./run_backup.sh` first.
 - Backup configurations by executing `run_backup.sh` file.
 - Files & folders that needs to be backed up should be mentioned inside `backup.conf` file.
 - Once backup is complete, commit the changes.
 
-## GUI Apps
+## 🎨 GUI Apps
 1. Notion - https://imouto.org/desktop
 2. VS Code - https://code.visualstudio.com/Download
 3. Firefox Developer Edition - https://www.mozilla.org/en-US/firefox/developer
@@ -19,6 +19,6 @@
 10. Unsplash - https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847
 11. Cloudflare WARP - https://cloudflarewarp.com
 
-## CLI Apps
+## 🧶 CLI Apps
 1. ZSH & Oh My ZSH - https://github.com/ohmyzsh/ohmyzsh
 2. Flutter - https://flutter.dev/docs/get-started/install/macos
