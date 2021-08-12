@@ -1,8 +1,8 @@
 # 🍏 macOS Configurations
 
 ## 💾 Backup Configurations
-- Make the `run_backup.sh` file executable with `chmod +x ./run_backup.sh` first.
-- Backup configurations by executing `run_backup.sh` file.
+- Make the `backup.sh` file executable with `chmod +x ./backup.sh` first.
+- Backup configurations by executing `backup.sh` file.
 - Files & folders that needs to be backed up should be mentioned inside `backup.conf` file.
 - Once backup is complete, commit the changes.
 
